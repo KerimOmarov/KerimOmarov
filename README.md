@@ -15,13 +15,12 @@ ________________________________________________________________________________
     <td width=20%>Stack</td>
   </tr>
   <tr>
-    <td><a href="[https://github.com/KerimOmarov/hr-analytics](https://github.com/KerimOmarov/hr-analytics/blob/main/outputs/summary_report.md)">HR Analytics</a></td>
+    <td><a href="https://github.com/KerimOmarov/hr-analytics/blob/main/outputs/summary_report.md">HR Analytics</a></td>
     <td> Attrition risk prediction on 19K+ data science professionals. AUC-ROC 0.81, SHAP explainability, workforce segmentation.</td>
     <td>Pandas, Python, DuckDB, sklearn, SHAP</td>
   </tr>
+</table>
 <br>
-
-
 __________________________________________________________________________________________________________________________
 
 <center><h3>Yandex.Practicum Data Science Projects</h3></center>
