@@ -2,8 +2,25 @@
 
 __________________________________________________________________________________________________________________________
 My repositories, containing `.ipynb` notebooks:
+01. [Repository - HR Analytics Project](https://github.com/KerimOmarov/hr-analytics)
 01. [Repository - Data Science projects](https://github.com/KerimOmarov/data_science_projects)  
 02. [Repository - Data Analyst projects](https://github.com/KerimOmarov/data_analyst_projects)  
+
+__________________________________________________________________________________________________________________________
+<center><h3>Independent Projects</h3></center>
+<table width=100% valign=top >
+  <tr>
+    <td width=25%>Project</td>
+    <td>Description</td>
+    <td width=20%>Stack</td>
+  </tr>
+  <tr>
+    <td><a href="[https://github.com/KerimOmarov/hr-analytics](https://github.com/KerimOmarov/hr-analytics/blob/main/outputs/summary_report.md)">HR Analytics</a></td>
+    <td> Attrition risk prediction on 19K+ data science professionals. AUC-ROC 0.81, SHAP explainability, workforce segmentation.</td>
+    <td>Pandas, Python, DuckDB, sklearn, SHAP</td>
+  </tr>
+<br>
+
 
 __________________________________________________________________________________________________________________________
 
